@@ -1,7 +1,8 @@
 {
-  "name": "UniformsWebsite",
+  "name": "React-Redux Practice",
   "version": "1.0.0",
-  "description": "",
+  "description": "Learn and practice the react-redux framework.",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
